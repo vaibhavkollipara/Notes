@@ -12,5 +12,4 @@ react native mobile app to create notes
 
 ## Screenshots
 
-<img src="https://github.com/vaibhavkollipara/Notes/blob/master/screenshots/Screenshot_20170810-194605.png" width=100 />
-<img src="https://github.com/vaibhavkollipara/Notes/blob/master/screenshots/Screenshot_20170810-194630.png" width=100 />
+<img src="https://github.com/vaibhavkollipara/Notes/blob/master/screenshots/Screenshot_20170810-194605.png" width=300 /><img src="https://github.com/vaibhavkollipara/Notes/blob/master/screenshots/Screenshot_20170810-194630.png" width=300 />
